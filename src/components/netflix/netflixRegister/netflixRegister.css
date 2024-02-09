@@ -1,0 +1,15 @@
+p {
+    font-size: 1.25rem;
+    font-weight: 400;
+}
+
+.r-input {
+    text-align: center;
+    justify-content: center;
+}
+
+input {
+    filter: opacity(15%);
+    border-color: white;
+    padding: 0.5rem;
+}

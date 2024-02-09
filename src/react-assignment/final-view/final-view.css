@@ -1,0 +1,13 @@
+.fViewWh{
+    height: 89vh;
+    border: 2px solid green;
+    border-radius: 25px;
+    margin: 5px;
+}
+.btnEnd{
+    /* margin-top: 61vh;
+    margin-left: 70%; */
+    position: absolute;
+    bottom:2%;
+    left: 80%;
+}

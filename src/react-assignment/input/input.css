@@ -1,0 +1,16 @@
+.widhHeight{
+    height: 44vh;
+    border: 2px solid gray;
+    border-radius: 25px;
+    text-align: center;
+    margin: 5px;
+}
+.bstyle{
+    position: absolute;
+    bottom:2%;
+    left: 58%;
+    
+    
+    
+}
+
